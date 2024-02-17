@@ -24,6 +24,9 @@ Welcome to the Expense Application Backend! This Java Spring Boot project serves
 
 The Expense Application Backend is a robust Java Spring Boot application designed to handle the server-side logic for the Expense Management Full Stack Application. It communicates with the frontend, manages user authentication, handles data storage/retrieval, and ensures the security and integrity of the application.
 
+## Scope
+1. Expense Management Application is a web-based application that allows the user to handle all the financial activities online quickly
+2. So, the aim of the project is to provide interface to customers. The customer can choose the type of financial activity from the category and save their transaction.
 ## Features
 
 - Full-fledged Spring Boot application.

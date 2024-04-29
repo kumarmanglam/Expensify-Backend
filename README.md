@@ -1,5 +1,3 @@
-Certainly! Here's a detailed README.md for your Spring Boot backend project:
-
 # Expense Application Backend
 
 Welcome to the Expense Application Backend! This Java Spring Boot project serves as the backbone for the Expense Management Full Stack Application. This README will guide you through the project structure, setup, and functionalities.
